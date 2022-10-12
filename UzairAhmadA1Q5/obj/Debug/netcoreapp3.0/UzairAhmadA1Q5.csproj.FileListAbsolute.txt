@@ -1,0 +1,11 @@
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\bin\Debug\netcoreapp3.0\UzairAhmadA1Q5.exe
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\bin\Debug\netcoreapp3.0\UzairAhmadA1Q5.deps.json
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\bin\Debug\netcoreapp3.0\UzairAhmadA1Q5.runtimeconfig.json
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\bin\Debug\netcoreapp3.0\UzairAhmadA1Q5.runtimeconfig.dev.json
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\bin\Debug\netcoreapp3.0\UzairAhmadA1Q5.dll
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\bin\Debug\netcoreapp3.0\UzairAhmadA1Q5.pdb
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\obj\Debug\netcoreapp3.0\UzairAhmadA1Q5.AssemblyInfoInputs.cache
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\obj\Debug\netcoreapp3.0\UzairAhmadA1Q5.AssemblyInfo.cs
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\obj\Debug\netcoreapp3.0\UzairAhmadA1Q5.dll
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\obj\Debug\netcoreapp3.0\UzairAhmadA1Q5.pdb
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1Q5\obj\Debug\netcoreapp3.0\UzairAhmadA1Q5.csprojAssemblyReference.cache
