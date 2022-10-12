@@ -1,0 +1,11 @@
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\bin\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.exe
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\bin\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.deps.json
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\bin\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.runtimeconfig.json
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\bin\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.runtimeconfig.dev.json
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\bin\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.dll
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\bin\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.pdb
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\obj\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.AssemblyInfoInputs.cache
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\obj\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.AssemblyInfo.cs
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\obj\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.dll
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\obj\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.pdb
+C:\Users\4380\source\repos\UzairAhmadA1Q1\UzairAhmadA1_BonusQ\obj\Debug\netcoreapp3.0\UzairAhmadA1_BonusQ.csprojAssemblyReference.cache

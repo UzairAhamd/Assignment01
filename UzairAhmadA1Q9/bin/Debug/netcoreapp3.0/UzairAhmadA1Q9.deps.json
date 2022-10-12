@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UzairAhmadA1Q9/1.0.0": {
+        "runtime": {
+          "UzairAhmadA1Q9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UzairAhmadA1Q9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
